@@ -1,0 +1,4 @@
+"rule","total_fraud_in_scope","total_exposure_usd","fraud_cases_caught","fraud_value_caught_usd","false_positive_reviews","est_review_cost_usd","est_net_benefit_usd"
+Rule 1 - High Value + Zero Balance,8213,12056415427.84,2551,8964226288.97,127683,372408.75,8963853880.22
+Rule 2 - Full Account Drain,8213,12056415427.84,8012,10548058277.45,1180062,3441847.5,10544616429.95
+Combined - Both Rules,8213,12056415427.84,2548,8959818503.86,62918,183510.83,8959634993.03

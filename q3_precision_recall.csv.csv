@@ -1,0 +1,4 @@
+"rule_name","true_positives","false_positives","false_negatives","total_flags","precision_pct","recall_pct"
+Rule 1 - High Value + Zero Balance,2551,127683,5662,130234,1.96,31.06
+Rule 2 - Full Account Drain,8012,1180062,201,1188074,0.67,97.55
+Combined - Both Rules,2548,62918,5665,65466,3.89,31.02

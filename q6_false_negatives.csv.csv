@@ -1,0 +1,4 @@
+"segment","count","min_amount","avg_amount","max_amount","zero_bal_after","zero_bal_before"
+Rule 1 False Negatives,5662,0.0,546130.19,10000000,5502,38
+Rule 2 False Negatives,201,0.0,7504264.43,10000000,41,41
+All Fraud - Baseline,8213,0.0,1467967.3,10000000,8053,41
